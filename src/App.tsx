@@ -56,6 +56,7 @@ class App extends Component<{}, IState> {
       },100);
   }
 
+
   /**
    * Render the App react component
    */
